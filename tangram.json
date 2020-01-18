@@ -1,0 +1,13 @@
+{
+  "version": "0.1.2",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/tangram-hq/tangram-cli/releases/download/v0.1.2/tangram-cli-0.1.2-windows-x86_64.exe.zip",
+      "bin": ["tangram.exe"],
+      "hash": "563f5210cfed6e107e3f5d7facd19b9b7a9fd109"
+    }
+  },
+  "homepage": "https://www.tangramhq.com",
+  "license": "MIT",
+  "description": "Tangram"
+}
