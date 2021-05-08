@@ -4,7 +4,7 @@
     "64bit": {
       "url": "https://github.com/tangramxyz/tangram/releases/download/v0.3.0/tangram_cli_0.3.0_x86_64-pc-windows-msvc.tar.gz",
       "bin": ["tangram.exe"],
-      "hash": "bd290a84593380ed4df70161408dfafcb80403e8f45d4bd1bbacdedf53c8f9b0"
+      "hash": "0e75d25e4947de2992db6734924f8cb4a9598395b9aa84b38964ed8042aaf784"
     }
   },
   "homepage": "https://www.tangram.xyz",
