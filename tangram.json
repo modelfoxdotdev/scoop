@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tangramxyz/tangram/releases/download/v0.5.0/tangram_cli_0.5.0_x86_64-pc-windows-msvc.tar.gz",
+      "url": "https://github.com/tangramxyz/tangram/releases/download/v0.6.0/tangram_cli_0.6.0_x86_64-pc-windows-msvc.tar.gz",
       "bin": ["tangram.exe"],
-      "hash": "d46da37ce4ef2fcf189321b34b025ad2c06479603832c98e01b61c3a24a3e75d"
+      "hash": "0f25b62ea48b47b5451917415fbb084cb1f201dd03beab865743b4056030585a"
     }
   },
   "homepage": "https://www.tangram.xyz",
