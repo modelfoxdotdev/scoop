@@ -1,13 +1,13 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tangramdotdev/tangram/releases/download/v0.6.0/tangram_cli_0.6.0_x86_64-pc-windows-msvc.tar.gz",
+      "url": "https://github.com/tangramdotdev/tangram/releases/download/v0.7.0/tangram_cli_0.7.0_x86_64-pc-windows-msvc.tar.gz",
       "bin": ["tangram.exe"],
-      "hash": "0f25b62ea48b47b5451917415fbb084cb1f201dd03beab865743b4056030585a"
+      "hash": "926d6a406edd679481a851ca62e30b7eea97df44ed24a06dd7577d2c2e84a188"
     }
   },
   "homepage": "https://www.tangram.dev",
   "license": "MIT",
-  "description": "Tangram is an all-in-one automated machine learning framework."
+  "description": "Tangram makes it easy for programmers to train, deploy, and monitor machine learning models."
 }
